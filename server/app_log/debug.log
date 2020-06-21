@@ -1,0 +1,330 @@
+info: 2020-04-18 21:43:30|app.ts:20|INFO|16960|Server listening on port: 8081
+info: 2020-04-18 21:43:30|index.ts:12|INFO|16960|koa loaded!
+info: 2020-04-18 21:43:30|mysql.ts:28|INFO|16960|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:43:30|mysql.ts:31|INFO|16960|mysql connect start!
+info: 2020-04-18 21:43:34|app.ts:20|INFO|15204|Server listening on port: 8081
+info: 2020-04-18 21:43:34|index.ts:12|INFO|15204|koa loaded!
+info: 2020-04-18 21:43:34|mysql.ts:28|INFO|15204|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:43:34|mysql.ts:31|INFO|15204|mysql connect start!
+info: 2020-04-18 21:49:09|app.ts:20|INFO|19236|Server listening on port: 8081
+info: 2020-04-18 21:49:09|index.ts:12|INFO|19236|koa loaded!
+info: 2020-04-18 21:49:10|mysql.ts:28|INFO|19236|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:49:10|mysql.ts:31|INFO|19236|mysql connect start!
+info: 2020-04-18 21:49:19|app.ts:20|INFO|18952|Server listening on port: 8081
+info: 2020-04-18 21:49:19|index.ts:12|INFO|18952|koa loaded!
+info: 2020-04-18 21:49:19|mysql.ts:28|INFO|18952|Executing (default): SELECT 1+1 AS result
+info: 2020-04-18 21:49:19|mysql.ts:31|INFO|18952|mysql connect start!
+info: 2020-06-20 11:55:05|app.ts:20|INFO|7860|Server listening on port: 8081
+info: 2020-06-20 11:55:05|index.ts:12|INFO|7860|koa loaded!
+info: 2020-06-20 11:55:13|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+error: 2020-06-20 11:55:15|mysql.ts:33|ERROR|7860|Unable to connect to the database:|{"name":"SequelizeConnectionError","parent":{"errorno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","fatal":true},"original":{"errorno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"connect","fatal":true}}
+error: 2020-06-20 11:55:15|mysql.ts:37|ERROR|7860|mysql错误邮箱提示发送失败！|Error: Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+info: 2020-06-20 13:43:00|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:02|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:04|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:05|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:09|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:10|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:12|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:18|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:19|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:20|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:21|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:22|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:29|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:31|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:32|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:34|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:39|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:39|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:40|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:43:41|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:12|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:12|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:18|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:22|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:22|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:23|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:24|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:24|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:25|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:25|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:26|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:44:27|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:02|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:03|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:03|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:03|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:06|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:07|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:07|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:10|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:11|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:11|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:11|auth.ts:33|INFO|7860|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 13:45:17|app.ts:20|INFO|9536|Server listening on port: 8081
+info: 2020-06-20 13:45:17|index.ts:12|INFO|9536|koa loaded!
+info: 2020-06-20 13:45:17|mysql.ts:28|INFO|9536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 13:45:17|mysql.ts:31|INFO|9536|mysql connect start!
+info: 2020-06-20 17:19:07|app.ts:20|INFO|17324|Server listening on port: 8081
+info: 2020-06-20 17:19:07|index.ts:12|INFO|17324|koa loaded!
+info: 2020-06-20 17:19:07|mysql.ts:28|INFO|17324|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 17:19:07|mysql.ts:31|INFO|17324|mysql connect start!
+info: 2020-06-20 17:22:06|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:22:08|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:22:08|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:23:11|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:27|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:28|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:28|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:28|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:28|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:28|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:29|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:29|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:29|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:29|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:29|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:30|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 17:25:30|auth.ts:33|INFO|17324|rsp|requestId=undefined|body=undefined
+info: 2020-06-20 21:19:13|app.ts:20|INFO|10288|Server listening on port: 8081
+info: 2020-06-20 21:19:13|index.ts:12|INFO|10288|koa loaded!
+info: 2020-06-20 21:19:13|mysql.ts:28|INFO|10288|Executing (default): SELECT 1+1 AS result
+info: 2020-06-20 21:19:13|mysql.ts:31|INFO|10288|mysql connect start!
+info: 2020-06-21 12:36:56|app.ts:20|INFO|17624|Server listening on port: 8081
+info: 2020-06-21 12:36:56|index.ts:12|INFO|17624|koa loaded!
+info: 2020-06-21 12:37:00|app.ts:20|INFO|3252|Server listening on port: 8081
+info: 2020-06-21 12:37:00|index.ts:12|INFO|3252|koa loaded!
+info: 2020-06-21 12:37:06|app.ts:20|INFO|13884|Server listening on port: 8081
+info: 2020-06-21 12:37:06|index.ts:12|INFO|13884|koa loaded!
+info: 2020-06-21 12:37:06|mysql.ts:28|INFO|13884|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:37:06|mysql.ts:31|INFO|13884|mysql connect start!
+info: 2020-06-21 12:37:21|app.ts:20|INFO|10112|Server listening on port: 8081
+info: 2020-06-21 12:37:21|index.ts:12|INFO|10112|koa loaded!
+info: 2020-06-21 12:37:21|mysql.ts:28|INFO|10112|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:37:21|mysql.ts:31|INFO|10112|mysql connect start!
+info: 2020-06-21 12:40:32|app.ts:20|INFO|15116|Server listening on port: 8081
+info: 2020-06-21 12:40:32|index.ts:12|INFO|15116|koa loaded!
+info: 2020-06-21 12:40:33|mysql.ts:28|INFO|15116|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:40:33|mysql.ts:31|INFO|15116|mysql connect start!
+info: 2020-06-21 12:40:45|app.ts:20|INFO|17560|Server listening on port: 8081
+info: 2020-06-21 12:40:45|index.ts:12|INFO|17560|koa loaded!
+info: 2020-06-21 12:40:46|mysql.ts:28|INFO|17560|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:40:46|mysql.ts:31|INFO|17560|mysql connect start!
+info: 2020-06-21 12:43:29|app.ts:20|INFO|18260|Server listening on port: 8081
+info: 2020-06-21 12:43:29|index.ts:12|INFO|18260|koa loaded!
+info: 2020-06-21 12:43:32|app.ts:20|INFO|13932|Server listening on port: 8081
+info: 2020-06-21 12:43:32|index.ts:12|INFO|13932|koa loaded!
+info: 2020-06-21 12:43:32|mysql.ts:28|INFO|13932|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:43:32|mysql.ts:31|INFO|13932|mysql connect start!
+info: 2020-06-21 12:43:35|app.ts:20|INFO|13320|Server listening on port: 8081
+info: 2020-06-21 12:43:35|index.ts:12|INFO|13320|koa loaded!
+info: 2020-06-21 12:43:35|mysql.ts:28|INFO|13320|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:43:35|mysql.ts:31|INFO|13320|mysql connect start!
+info: 2020-06-21 12:43:37|app.ts:20|INFO|12036|Server listening on port: 8081
+info: 2020-06-21 12:43:37|index.ts:12|INFO|12036|koa loaded!
+info: 2020-06-21 12:43:38|mysql.ts:28|INFO|12036|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:43:38|mysql.ts:31|INFO|12036|mysql connect start!
+info: 2020-06-21 12:43:44|app.ts:20|INFO|15496|Server listening on port: 8081
+info: 2020-06-21 12:43:44|index.ts:12|INFO|15496|koa loaded!
+info: 2020-06-21 12:43:45|mysql.ts:28|INFO|15496|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:43:45|mysql.ts:31|INFO|15496|mysql connect start!
+info: 2020-06-21 12:43:54|app.ts:20|INFO|16816|Server listening on port: 8081
+info: 2020-06-21 12:43:54|index.ts:12|INFO|16816|koa loaded!
+info: 2020-06-21 12:43:55|mysql.ts:28|INFO|16816|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:43:55|mysql.ts:31|INFO|16816|mysql connect start!
+info: 2020-06-21 12:44:11|app.ts:20|INFO|11228|Server listening on port: 8081
+info: 2020-06-21 12:44:11|index.ts:12|INFO|11228|koa loaded!
+info: 2020-06-21 12:44:11|mysql.ts:28|INFO|11228|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:44:11|mysql.ts:31|INFO|11228|mysql connect start!
+info: 2020-06-21 12:51:23|app.ts:20|INFO|10364|Server listening on port: 8081
+info: 2020-06-21 12:51:23|index.ts:12|INFO|10364|koa loaded!
+info: 2020-06-21 12:51:23|mysql.ts:28|INFO|10364|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:51:23|mysql.ts:31|INFO|10364|mysql connect start!
+info: 2020-06-21 12:51:31|app.ts:20|INFO|18352|Server listening on port: 8081
+info: 2020-06-21 12:51:31|index.ts:12|INFO|18352|koa loaded!
+info: 2020-06-21 12:51:32|mysql.ts:28|INFO|18352|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:51:32|mysql.ts:31|INFO|18352|mysql connect start!
+info: 2020-06-21 12:51:45|app.ts:20|INFO|17236|Server listening on port: 8081
+info: 2020-06-21 12:51:45|index.ts:12|INFO|17236|koa loaded!
+info: 2020-06-21 12:51:45|mysql.ts:28|INFO|17236|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:51:45|mysql.ts:31|INFO|17236|mysql connect start!
+info: 2020-06-21 12:51:50|app.ts:20|INFO|12036|Server listening on port: 8081
+info: 2020-06-21 12:51:50|index.ts:12|INFO|12036|koa loaded!
+info: 2020-06-21 12:51:50|mysql.ts:28|INFO|12036|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:51:50|mysql.ts:31|INFO|12036|mysql connect start!
+info: 2020-06-21 12:52:32|app.ts:20|INFO|17012|Server listening on port: 8081
+info: 2020-06-21 12:52:32|index.ts:12|INFO|17012|koa loaded!
+info: 2020-06-21 12:52:35|app.ts:20|INFO|13060|Server listening on port: 8081
+info: 2020-06-21 12:52:35|index.ts:12|INFO|13060|koa loaded!
+info: 2020-06-21 12:52:35|mysql.ts:28|INFO|13060|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:52:35|mysql.ts:31|INFO|13060|mysql connect start!
+info: 2020-06-21 12:52:41|app.ts:20|INFO|14364|Server listening on port: 8081
+info: 2020-06-21 12:52:41|index.ts:12|INFO|14364|koa loaded!
+info: 2020-06-21 12:52:41|mysql.ts:28|INFO|14364|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:52:41|mysql.ts:31|INFO|14364|mysql connect start!
+info: 2020-06-21 12:52:55|app.ts:20|INFO|18176|Server listening on port: 8081
+info: 2020-06-21 12:52:55|index.ts:12|INFO|18176|koa loaded!
+info: 2020-06-21 12:52:56|mysql.ts:28|INFO|18176|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:52:56|mysql.ts:31|INFO|18176|mysql connect start!
+info: 2020-06-21 12:52:58|app.ts:20|INFO|18112|Server listening on port: 8081
+info: 2020-06-21 12:52:58|index.ts:12|INFO|18112|koa loaded!
+info: 2020-06-21 12:52:58|mysql.ts:28|INFO|18112|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:52:58|mysql.ts:31|INFO|18112|mysql connect start!
+info: 2020-06-21 12:53:01|app.ts:20|INFO|2700|Server listening on port: 8081
+info: 2020-06-21 12:53:01|index.ts:12|INFO|2700|koa loaded!
+info: 2020-06-21 12:53:05|app.ts:20|INFO|7220|Server listening on port: 8081
+info: 2020-06-21 12:53:05|index.ts:12|INFO|7220|koa loaded!
+info: 2020-06-21 12:53:06|mysql.ts:28|INFO|7220|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:06|mysql.ts:31|INFO|7220|mysql connect start!
+info: 2020-06-21 12:53:10|app.ts:20|INFO|2400|Server listening on port: 8081
+info: 2020-06-21 12:53:10|index.ts:12|INFO|2400|koa loaded!
+info: 2020-06-21 12:53:16|app.ts:20|INFO|7048|Server listening on port: 8081
+info: 2020-06-21 12:53:16|index.ts:12|INFO|7048|koa loaded!
+info: 2020-06-21 12:53:16|mysql.ts:28|INFO|7048|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:16|mysql.ts:31|INFO|7048|mysql connect start!
+info: 2020-06-21 12:53:28|app.ts:20|INFO|4968|Server listening on port: 8081
+info: 2020-06-21 12:53:28|index.ts:12|INFO|4968|koa loaded!
+info: 2020-06-21 12:53:28|mysql.ts:28|INFO|4968|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:28|mysql.ts:31|INFO|4968|mysql connect start!
+info: 2020-06-21 12:53:39|app.ts:20|INFO|1552|Server listening on port: 8081
+info: 2020-06-21 12:53:39|index.ts:12|INFO|1552|koa loaded!
+info: 2020-06-21 12:53:40|mysql.ts:28|INFO|1552|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:40|mysql.ts:31|INFO|1552|mysql connect start!
+info: 2020-06-21 12:53:43|app.ts:20|INFO|16792|Server listening on port: 8081
+info: 2020-06-21 12:53:43|index.ts:12|INFO|16792|koa loaded!
+info: 2020-06-21 12:53:44|mysql.ts:28|INFO|16792|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:44|mysql.ts:31|INFO|16792|mysql connect start!
+info: 2020-06-21 12:53:50|app.ts:20|INFO|16464|Server listening on port: 8081
+info: 2020-06-21 12:53:50|index.ts:12|INFO|16464|koa loaded!
+info: 2020-06-21 12:53:51|mysql.ts:28|INFO|16464|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:53:51|mysql.ts:31|INFO|16464|mysql connect start!
+info: 2020-06-21 12:54:20|app.ts:20|INFO|13296|Server listening on port: 8081
+info: 2020-06-21 12:54:20|index.ts:12|INFO|13296|koa loaded!
+info: 2020-06-21 12:54:20|mysql.ts:28|INFO|13296|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:54:20|mysql.ts:31|INFO|13296|mysql connect start!
+info: 2020-06-21 12:54:25|app.ts:20|INFO|10732|Server listening on port: 8081
+info: 2020-06-21 12:54:25|index.ts:12|INFO|10732|koa loaded!
+info: 2020-06-21 12:54:26|mysql.ts:28|INFO|10732|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:54:26|mysql.ts:31|INFO|10732|mysql connect start!
+info: 2020-06-21 12:54:32|app.ts:20|INFO|6912|Server listening on port: 8081
+info: 2020-06-21 12:54:32|index.ts:12|INFO|6912|koa loaded!
+info: 2020-06-21 12:54:32|mysql.ts:28|INFO|6912|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:54:32|mysql.ts:31|INFO|6912|mysql connect start!
+info: 2020-06-21 12:54:35|app.ts:20|INFO|16480|Server listening on port: 8081
+info: 2020-06-21 12:54:35|index.ts:12|INFO|16480|koa loaded!
+info: 2020-06-21 12:54:35|mysql.ts:28|INFO|16480|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:54:35|mysql.ts:31|INFO|16480|mysql connect start!
+info: 2020-06-21 12:55:16|mysql.ts:28|INFO|18396|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:55:16|mysql.ts:31|INFO|18396|mysql connect start!
+info: 2020-06-21 12:57:07|mysql.ts:28|INFO|16512|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:57:07|mysql.ts:31|INFO|16512|mysql connect start!
+info: 2020-06-21 12:57:12|mysql.ts:28|INFO|13528|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:57:12|mysql.ts:31|INFO|13528|mysql connect start!
+info: 2020-06-21 12:57:19|mysql.ts:28|INFO|4336|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:57:19|mysql.ts:31|INFO|4336|mysql connect start!
+info: 2020-06-21 12:57:31|mysql.ts:28|INFO|11560|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:57:31|mysql.ts:31|INFO|11560|mysql connect start!
+info: 2020-06-21 12:57:37|mysql.ts:28|INFO|14944|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 12:57:37|mysql.ts:31|INFO|14944|mysql connect start!
+info: 2020-06-21 13:03:17|mysql.ts:28|INFO|8496|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:03:17|mysql.ts:31|INFO|8496|mysql connect start!
+info: 2020-06-21 13:03:44|app.ts:20|INFO|11580|Server listening on port: 8081
+info: 2020-06-21 13:03:44|index.ts:14|INFO|11580|koa loaded!
+info: 2020-06-21 13:03:47|app.ts:20|INFO|15860|Server listening on port: 8081
+info: 2020-06-21 13:03:47|index.ts:14|INFO|15860|koa loaded!
+info: 2020-06-21 13:03:47|mysql.ts:28|INFO|15860|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:03:47|mysql.ts:31|INFO|15860|mysql connect start!
+info: 2020-06-21 13:03:52|app.ts:20|INFO|13060|Server listening on port: 8081
+info: 2020-06-21 13:03:52|index.ts:14|INFO|13060|koa loaded!
+info: 2020-06-21 13:03:53|mysql.ts:28|INFO|13060|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:03:53|mysql.ts:31|INFO|13060|mysql connect start!
+info: 2020-06-21 13:04:26|app.ts:20|INFO|14324|Server listening on port: 8081
+info: 2020-06-21 13:04:26|index.ts:14|INFO|14324|koa loaded!
+info: 2020-06-21 13:04:26|mysql.ts:28|INFO|14324|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:04:26|mysql.ts:31|INFO|14324|mysql connect start!
+info: 2020-06-21 13:04:33|app.ts:20|INFO|6248|Server listening on port: 8081
+info: 2020-06-21 13:04:33|index.ts:14|INFO|6248|koa loaded!
+info: 2020-06-21 13:04:34|mysql.ts:28|INFO|6248|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:04:34|mysql.ts:31|INFO|6248|mysql connect start!
+info: 2020-06-21 13:06:35|app.ts:20|INFO|2808|Server listening on port: 8081
+info: 2020-06-21 13:06:35|index.ts:14|INFO|2808|koa loaded!
+info: 2020-06-21 13:06:35|mysql.ts:28|INFO|2808|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:06:35|mysql.ts:31|INFO|2808|mysql connect start!
+info: 2020-06-21 13:20:43|app.ts:22|INFO|18124|Server listening on port: 8081
+info: 2020-06-21 13:20:43|index.ts:14|INFO|18124|koa loaded!
+info: 2020-06-21 13:20:44|mysql.ts:28|INFO|18124|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:20:44|mysql.ts:31|INFO|18124|mysql connect start!
+info: 2020-06-21 13:20:57|app.ts:22|INFO|12516|Server listening on port: 8081
+info: 2020-06-21 13:20:57|index.ts:14|INFO|12516|koa loaded!
+info: 2020-06-21 13:20:58|mysql.ts:28|INFO|12516|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:20:58|mysql.ts:31|INFO|12516|mysql connect start!
+info: 2020-06-21 13:21:25|app.ts:22|INFO|17180|Server listening on port: 8081
+info: 2020-06-21 13:21:25|index.ts:14|INFO|17180|koa loaded!
+info: 2020-06-21 13:21:25|mysql.ts:28|INFO|17180|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:21:25|mysql.ts:31|INFO|17180|mysql connect start!
+info: 2020-06-21 13:33:15|app.ts:22|INFO|17524|Server listening on port: 8081
+info: 2020-06-21 13:33:15|index.ts:12|INFO|17524|koa loaded!
+info: 2020-06-21 13:33:15|mysql.ts:28|INFO|17524|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:33:15|mysql.ts:31|INFO|17524|mysql connect start!
+info: 2020-06-21 13:33:20|app.ts:22|INFO|17088|Server listening on port: 8081
+info: 2020-06-21 13:33:20|index.ts:12|INFO|17088|koa loaded!
+info: 2020-06-21 13:33:22|app.ts:22|INFO|17416|Server listening on port: 8081
+info: 2020-06-21 13:33:22|index.ts:12|INFO|17416|koa loaded!
+info: 2020-06-21 13:33:23|mysql.ts:28|INFO|17416|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:33:23|mysql.ts:31|INFO|17416|mysql connect start!
+info: 2020-06-21 13:33:27|app.ts:22|INFO|7560|Server listening on port: 8081
+info: 2020-06-21 13:33:27|index.ts:12|INFO|7560|koa loaded!
+info: 2020-06-21 13:33:27|mysql.ts:28|INFO|7560|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:33:27|mysql.ts:31|INFO|7560|mysql connect start!
+info: 2020-06-21 13:40:28|app.ts:23|INFO|8812|Server listening on port: 8081
+info: 2020-06-21 13:40:28|index.ts:12|INFO|8812|koa loaded!
+info: 2020-06-21 13:40:28|mysql.ts:28|INFO|8812|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:40:28|mysql.ts:31|INFO|8812|mysql connect start!
+info: 2020-06-21 13:40:41|app.ts:23|INFO|17216|Server listening on port: 8081
+info: 2020-06-21 13:40:41|index.ts:12|INFO|17216|koa loaded!
+info: 2020-06-21 13:40:42|mysql.ts:28|INFO|17216|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:40:42|mysql.ts:31|INFO|17216|mysql connect start!
+info: 2020-06-21 13:40:45|auth.ts:33|INFO|17216|rsp|requestId=undefined|body=undefined
+info: 2020-06-21 13:41:11|app.ts:23|INFO|11028|Server listening on port: 8081
+info: 2020-06-21 13:41:11|index.ts:12|INFO|11028|koa loaded!
+info: 2020-06-21 13:41:11|auth.ts:33|INFO|11028|rsp|requestId=undefined|body=undefined
+info: 2020-06-21 13:41:11|mysql.ts:28|INFO|11028|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:41:11|mysql.ts:31|INFO|11028|mysql connect start!
+info: 2020-06-21 13:41:20|app.ts:23|INFO|6956|Server listening on port: 8081
+info: 2020-06-21 13:41:20|index.ts:12|INFO|6956|koa loaded!
+info: 2020-06-21 13:41:20|auth.ts:33|INFO|6956|rsp|requestId=undefined|body=undefined
+info: 2020-06-21 13:41:20|mysql.ts:28|INFO|6956|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:41:20|mysql.ts:31|INFO|6956|mysql connect start!
+info: 2020-06-21 13:41:30|app.ts:23|INFO|14468|Server listening on port: 8081
+info: 2020-06-21 13:41:30|index.ts:12|INFO|14468|koa loaded!
+info: 2020-06-21 13:41:31|mysql.ts:28|INFO|14468|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:41:31|mysql.ts:31|INFO|14468|mysql connect start!
+info: 2020-06-21 13:41:35|app.ts:23|INFO|7948|Server listening on port: 8081
+info: 2020-06-21 13:41:35|index.ts:12|INFO|7948|koa loaded!
+info: 2020-06-21 13:41:40|app.ts:23|INFO|17144|Server listening on port: 8081
+info: 2020-06-21 13:41:40|index.ts:12|INFO|17144|koa loaded!
+info: 2020-06-21 13:41:40|mysql.ts:28|INFO|17144|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:41:40|mysql.ts:31|INFO|17144|mysql connect start!
+info: 2020-06-21 13:41:48|app.ts:23|INFO|15452|Server listening on port: 8081
+info: 2020-06-21 13:41:48|index.ts:12|INFO|15452|koa loaded!
+info: 2020-06-21 13:41:48|mysql.ts:28|INFO|15452|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 13:41:48|mysql.ts:31|INFO|15452|mysql connect start!
