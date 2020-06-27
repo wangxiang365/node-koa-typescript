@@ -5,6 +5,7 @@ import config from './config';
 const logger = require("./utils/logUtil")("app");
 import loaders from './loaders'
 import socketio from './utils/socketio';
+import redisTool from './utils/redisTool';
 async function startServer() {
   const app = new koa();
   await loaders({ koaApp: app });                          // 加载koa配置
@@ -20,3 +21,4 @@ async function startServer() {
   await socketio(server);                                  // 初始化websocket
 }
 startServer()
+redisTool.set('addddadddddddddssssss', {name: '张三', age: '25'}, 5000)

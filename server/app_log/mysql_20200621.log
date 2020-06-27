@@ -104,3 +104,60 @@ info: 2020-06-21 13:41:40|mysql.ts:28|INFO|17144|Executing (default): SELECT 1+1
 info: 2020-06-21 13:41:40|mysql.ts:31|INFO|17144|mysql connect start!
 info: 2020-06-21 13:41:48|mysql.ts:28|INFO|15452|Executing (default): SELECT 1+1 AS result
 info: 2020-06-21 13:41:48|mysql.ts:31|INFO|15452|mysql connect start!
+info: 2020-06-21 14:23:52|mysql.ts:28|INFO|17644|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 14:23:53|mysql.ts:31|INFO|17644|mysql connect start!
+info: 2020-06-21 17:25:50|mysql.ts:28|INFO|19664|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:25:50|mysql.ts:31|INFO|19664|mysql connect start!
+info: 2020-06-21 17:26:23|mysql.ts:28|INFO|6536|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:26:23|mysql.ts:31|INFO|6536|mysql connect start!
+info: 2020-06-21 17:26:29|mysql.ts:28|INFO|20176|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:26:29|mysql.ts:31|INFO|20176|mysql connect start!
+info: 2020-06-21 17:27:04|mysql.ts:28|INFO|16964|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:27:04|mysql.ts:31|INFO|16964|mysql connect start!
+info: 2020-06-21 17:27:17|mysql.ts:28|INFO|13888|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:27:17|mysql.ts:31|INFO|13888|mysql connect start!
+info: 2020-06-21 17:27:58|mysql.ts:28|INFO|18692|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:27:58|mysql.ts:31|INFO|18692|mysql connect start!
+error: 2020-06-21 17:27:58|mysql.ts:38|ERROR|18692|Unable to connect to the database:|{}
+info: 2020-06-21 17:28:05|mysql.ts:28|INFO|20376|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:28:05|mysql.ts:31|INFO|20376|mysql connect start!
+error: 2020-06-21 17:28:05|mysql.ts:38|ERROR|20376|Unable to connect to the database:|{}
+info: 2020-06-21 17:28:06|mysql.ts:40|INFO|20376|mysql错误邮箱提示发送成功！
+info: 2020-06-21 17:29:00|mysql.ts:28|INFO|20148|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:29:00|mysql.ts:31|INFO|20148|mysql connect start!
+info: 2020-06-21 17:29:05|mysql.ts:28|INFO|3792|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:29:05|mysql.ts:31|INFO|3792|mysql connect start!
+error: 2020-06-21 17:29:05|mysql.ts:38|ERROR|3792|Unable to connect to the database:|{}
+info: 2020-06-21 17:29:06|mysql.ts:40|INFO|3792|mysql错误邮箱提示发送成功！
+info: 2020-06-21 17:29:20|mysql.ts:28|INFO|1748|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:29:20|mysql.ts:31|INFO|1748|mysql connect start!
+error: 2020-06-21 17:29:20|mysql.ts:38|ERROR|1748|Unable to connect to the database:|{}
+error: 2020-06-21 17:29:20|mysql.ts:42|ERROR|1748|mysql错误邮箱提示发送失败！|Error: Invalid login: 535 Login Fail. Please enter your authorization code to login. More information in http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+info: 2020-06-21 17:29:54|mysql.ts:28|INFO|1604|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:29:54|mysql.ts:31|INFO|1604|mysql connect start!
+error: 2020-06-21 17:29:54|mysql.ts:38|ERROR|1604|Unable to connect to the database:|{}
+info: 2020-06-21 17:29:54|mysql.ts:40|INFO|1604|mysql错误邮箱提示发送成功！
+info: 2020-06-21 17:30:12|mysql.ts:28|INFO|5024|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:30:12|mysql.ts:31|INFO|5024|mysql connect start!
+error: 2020-06-21 17:30:13|mysql.ts:38|ERROR|5024|Unable to connect to the database:|{}
+info: 2020-06-21 17:30:13|mysql.ts:40|INFO|5024|mysql错误邮箱提示发送成功！
+info: 2020-06-21 17:30:30|mysql.ts:28|INFO|20424|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:30:30|mysql.ts:31|INFO|20424|mysql connect start!
+info: 2020-06-21 17:30:35|mysql.ts:28|INFO|12084|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:30:35|mysql.ts:31|INFO|12084|mysql connect start!
+info: 2020-06-21 17:30:38|mysql.ts:28|INFO|19268|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:30:38|mysql.ts:31|INFO|19268|mysql connect start!
+info: 2020-06-21 17:30:56|mysql.ts:28|INFO|15836|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:30:56|mysql.ts:31|INFO|15836|mysql connect start!
+info: 2020-06-21 17:33:01|mysql.ts:28|INFO|19736|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:33:01|mysql.ts:31|INFO|19736|mysql connect start!
+info: 2020-06-21 17:34:47|mysqlConect.ts:28|INFO|5360|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:34:47|mysqlConect.ts:31|INFO|5360|mysql connect start!
+info: 2020-06-21 17:35:03|mysqlConect.ts:28|INFO|6532|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:35:03|mysqlConect.ts:31|INFO|6532|mysql connect start!
+info: 2020-06-21 17:35:10|mysqlConect.ts:28|INFO|17120|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:35:10|mysqlConect.ts:31|INFO|17120|mysql connect start!
+info: 2020-06-21 17:35:35|mysqlConect.ts:28|INFO|18852|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:35:35|mysqlConect.ts:31|INFO|18852|mysql connect start!
+info: 2020-06-21 17:35:46|mysqlConect.ts:28|INFO|6256|Executing (default): SELECT 1+1 AS result
+info: 2020-06-21 17:35:46|mysqlConect.ts:31|INFO|6256|mysql connect start!

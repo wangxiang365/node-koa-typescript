@@ -32,6 +32,10 @@
           <van-button type="primary" @click="login()">登录</van-button>
         </div>
       </div>
+      <div class="forget">
+        <span @click="$router.push('/forgotPassword')">忘记密码？</span>
+        <span @click="$router.push({path: '/register', query: {invitationCode: $route.query.invitationCode}})">没有账号，去注册</span>
+      </div>
     </div>
   </div>
 </template>

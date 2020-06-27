@@ -23,4 +23,4 @@ class redisTool {
   }
 }
 
-module.exports = redisTool;
+module.exports = new redisTool();

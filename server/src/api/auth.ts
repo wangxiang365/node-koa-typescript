@@ -4,6 +4,8 @@ import AuthService from '../services/auth';
 import { IUserInputDTO } from '../../interfaces/IUser';
 const Joi = require('@hapi/joi');
 const logger = require("../utils/logUtil")("router");
+import redisTool from '../utils/redisTool';
+import User from '../models/user'
 router.prefix('/auth')          // 用户路由前缀
 // 注册
 router.post('/signup', async (ctx, next) => {
@@ -27,9 +29,16 @@ router.post('/signup', async (ctx, next) => {
   //   return next(e);
   // }
   logger.info(`rsp|requestId=${ctx.requestId}|body=${ctx.body}`);
+  // await UserInfo.create({
+  //   name,
+  //   gender,
+  // }))
+  let data = await redisTool.get('addddadddddddddssssss')
+  let userInfo = await User.findOne({where: {user_name: '张丹'}})
   ctx.body = {
     data: {
-      args: {},
+      args: data,
+      table: userInfo,
       code: -1,
       msg: 'signup成功！！！',
       ret: 0

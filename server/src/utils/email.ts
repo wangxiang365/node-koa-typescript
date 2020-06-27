@@ -19,7 +19,7 @@ function sendEmail(from, aliasName, tos, subject, msg) {
 			port: 465,
 			auth: {
 				user: from,
-				pass: '1213976107',
+				pass: 'ynuclyoljqwmhaic',          // 秘钥
 			}
 		});
 		smtpTransport.sendMail({
